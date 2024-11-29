@@ -3,8 +3,8 @@
 
 int main(int argc, const char *argv[])
 {
-    cv::namedWindow("Image");
-    cv::Mat Image = cv::imread("/home/abolfazlmohammadpour/Temperature/OpenCVTutorials/OpenCV_Tutorials_For_CPlusPlus/Reading And Showing An Image/Resource/Image.jpg");
+    cv::namedWindow("Image", cv::WINDOW_AUTOSIZE);
+    cv::Mat Image = cv::imread("/home/abolfazlmohammadpour/Temperature/OpenCVTutorials/OpenCV_Tutorials_For_CPlusPlus/Reading And Showing An Image/Resource/Image.jpg", cv::IMREAD_UNCHANGED);
     if (Image.empty() == (bool)false)
         cv::imshow("Image", Image);
     else
