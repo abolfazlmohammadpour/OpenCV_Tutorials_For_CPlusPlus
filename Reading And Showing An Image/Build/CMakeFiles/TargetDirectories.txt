@@ -1,0 +1,3 @@
+/home/abolfazlmohammadpour/Temperature/OpenCVTutorials/OpenCV_Tutorials_For_CPlusPlus/Reading And Showing An Image/Build/CMakeFiles/main.dir
+/home/abolfazlmohammadpour/Temperature/OpenCVTutorials/OpenCV_Tutorials_For_CPlusPlus/Reading And Showing An Image/Build/CMakeFiles/edit_cache.dir
+/home/abolfazlmohammadpour/Temperature/OpenCVTutorials/OpenCV_Tutorials_For_CPlusPlus/Reading And Showing An Image/Build/CMakeFiles/rebuild_cache.dir
